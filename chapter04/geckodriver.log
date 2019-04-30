@@ -1,0 +1,297 @@
+1552731931516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.zUmhcNAl6AtF"
+1552731932734	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552731932735	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552731935480	Marionette	INFO	Listening on port 51726
+1552731935531	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1552731958795	Marionette	INFO	Stopped listening on port 51726
+1552733650543	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.zwTnnlKU0FNn"
+1552733652023	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552733652024	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552733655317	Marionette	INFO	Listening on port 57022
+1552733655334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1552733671735	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+openRemotePrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:646:9
+onclick@http://demo-store.seleniumacademy.com/catalogsearch/result/?q=phones:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552733873868	Marionette	INFO	Stopped listening on port 57022
+1552733878249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.hVAfojjAezjU"
+1552733879200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552733879200	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552733881427	Marionette	INFO	Listening on port 57154
+1552733881516	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1552733898079	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+openRemotePrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:646:9
+onclick@http://demo-store.seleniumacademy.com/catalogsearch/result/?q=phones:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552734179948	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.PrvXwHk85nFp"
+1552734180970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552734180972	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552734183542	Marionette	INFO	Listening on port 57292
+1552734183629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552734255223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.kcjxfp1vKP8n"
+1552734256212	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552734256214	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552734258680	Marionette	INFO	Listening on port 57377
+1552734258717	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1552734276624	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:196:64
+openRemotePrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:507:5
+openPrompt@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:541:17
+confirm@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/nsPrompter.js:646:9
+onclick@http://demo-store.seleniumacademy.com/catalogsearch/result/?q=phones:1:8
+event.synthesizeMouseAtPoint@chrome://marionette/content/event.js:202:5
+webdriverClickElement@chrome://marionette/content/interaction.js:183:5
+1552734285900	Marionette	INFO	Stopped listening on port 57377
+1552734288212	Marionette	INFO	Stopped listening on port 57292
+1552734290792	Marionette	INFO	Stopped listening on port 57154
+1552734327814	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.tsvNub52jrFV"
+1552734328692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552734328693	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552734330791	Marionette	INFO	Listening on port 57458
+1552734330860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552734406386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.fgSAc2TdOITz"
+1552734407095	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552734407096	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552734409233	Marionette	INFO	Listening on port 57543
+1552734409255	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: http://demo-store.seleniumacademy.com/js/lib/jquery/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1552734426599	Marionette	INFO	Stopped listening on port 57543
+1552735508096	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.Pkki4x8D4j1B"
+1552735509114	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552735509115	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552735511579	Marionette	INFO	Listening on port 57748
+1552735511679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552735530238	Marionette	INFO	Stopped listening on port 57458
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1552736032839	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.SOKFPSV6OeGl"
+1552736033801	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736033802	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736035937	Marionette	INFO	Listening on port 57951
+1552736035995	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552736080871	Marionette	INFO	Stopped listening on port 57951
+1552736102477	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.q9dCCs0IYQf3"
+1552736103340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736103341	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736105419	Marionette	INFO	Listening on port 58068
+1552736105431	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1552736192314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.8uA2ondfQUrn"
+1552736193291	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736193292	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736195516	Marionette	INFO	Listening on port 58209
+1552736195595	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1552736223812	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.fD6o6inDqLe5"
+1552736224690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736224690	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736226844	Marionette	INFO	Listening on port 58286
+1552736226884	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552736267081	Marionette	INFO	Stopped listening on port 58286
+1552736420931	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.YTha4ntsedm6"
+1552736422299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736422300	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736424731	Marionette	INFO	Listening on port 58717
+1552736424789	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1552736700314	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.yJlMYD8OQLJx"
+1552736701426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552736701426	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552736703834	Marionette	INFO	Listening on port 58891
+1552736703926	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552736744695	Marionette	INFO	Stopped listening on port 58891
+1552737231007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.L1l7j9eWaqdy"
+1552737231954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552737231954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552737234051	Marionette	INFO	Listening on port 59260
+1552737234087	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10948, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+[Child 10948, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /builds/worker/workspace/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 718
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1552737444407	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.5hFdIh5q2wZ3"
+1552737445365	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552737445366	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552737447675	Marionette	INFO	Listening on port 59905
+1552737447712	Marionette	WARN	TLS certificate errors will be ignored for this session
+1552737450287	Marionette	INFO	Stopped listening on port 59905
+1552737542456	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.jBSKlfmhQ7iI"
+1552737543350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552737543350	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552737545615	Marionette	INFO	Listening on port 60493
+1552737545623	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+1552737571033	Marionette	INFO	Stopped listening on port 60493
+1552737652638	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.1jUd3DEIMQGu"
+1552737653542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552737653542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552737655621	Marionette	INFO	Listening on port 61129
+1552737655699	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: NetworkError when attempting to fetch resource..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:188:13
+
+1552737693925	Marionette	INFO	Stopped listening on port 61129
+1552737769732	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/hx/4gvbhyhx4bz4mkq7p0gzkwkh0000gn/T/rust_mozprofile.bpjca1UqbJ73"
+1552737770713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: resource://pdf.js/
+1552737770713	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid host permission: about:reader*
+Can't find symbol 'GetGraphicsResetStatus'.
+1552737773107	Marionette	INFO	Listening on port 61770
+1552737773206	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/, line 15: ReferenceError: sj_we is not defined
+JavaScript error: http://www.bing.com/search?q=selenium+webdriver&qs=ds&form=QBLH, line 9: ReferenceError: Lib is not defined
+1552737795907	Marionette	INFO	Stopped listening on port 61770
